@@ -1,0 +1,7 @@
+.camera-tool-button {
+    pointer-events: all;
+}
+
+.camera-tool-button path {
+    fill: #ffffff;
+}
